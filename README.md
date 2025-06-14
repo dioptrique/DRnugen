@@ -1,4 +1,4 @@
-# Dr Nugen : Your personal medical fact checker
+# Dr. Nugen : Your personal medical fact checker
 
 ## Why you need it
 
